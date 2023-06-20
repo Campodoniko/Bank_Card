@@ -1,0 +1,11 @@
+#card-thumbnail {
+  width: 15cm;
+  height: 8cm;
+  border: 1px solid black;
+  padding: 1cm;
+}
+#bank-logo, #payment-logo {
+  width: 5cm;
+  height: 3cm;
+  margin: 0.5cm;
+}
